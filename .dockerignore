@@ -1,0 +1,4 @@
+# Docker Ignore
+.dockerignore
+*.md
+*.png
